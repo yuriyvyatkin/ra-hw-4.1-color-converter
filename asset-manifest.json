@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hw-4.1-color-converter/static/css/main.a53d09a3.chunk.css",
+    "main.js": "/ra-hw-4.1-color-converter/static/js/main.25b03f16.chunk.js",
+    "main.js.map": "/ra-hw-4.1-color-converter/static/js/main.25b03f16.chunk.js.map",
+    "runtime-main.js": "/ra-hw-4.1-color-converter/static/js/runtime-main.64ec064b.js",
+    "runtime-main.js.map": "/ra-hw-4.1-color-converter/static/js/runtime-main.64ec064b.js.map",
+    "static/js/2.704fb239.chunk.js": "/ra-hw-4.1-color-converter/static/js/2.704fb239.chunk.js",
+    "static/js/2.704fb239.chunk.js.map": "/ra-hw-4.1-color-converter/static/js/2.704fb239.chunk.js.map",
+    "static/js/3.aba791cd.chunk.js": "/ra-hw-4.1-color-converter/static/js/3.aba791cd.chunk.js",
+    "static/js/3.aba791cd.chunk.js.map": "/ra-hw-4.1-color-converter/static/js/3.aba791cd.chunk.js.map",
+    "index.html": "/ra-hw-4.1-color-converter/index.html",
+    "static/css/main.a53d09a3.chunk.css.map": "/ra-hw-4.1-color-converter/static/css/main.a53d09a3.chunk.css.map",
+    "static/js/2.704fb239.chunk.js.LICENSE.txt": "/ra-hw-4.1-color-converter/static/js/2.704fb239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ec064b.js",
+    "static/js/2.704fb239.chunk.js",
+    "static/css/main.a53d09a3.chunk.css",
+    "static/js/main.25b03f16.chunk.js"
+  ]
+}
